@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// BY HUMBERTO BLADIMIR VASQUEZ LOPEZ LV16006
+// BY BLADIMIR LOPEZ
 
 int main(int argc, char** argv) {
 	float p0, p1, p, fp, tol, q0, q1; int iteraciones,i=2;
